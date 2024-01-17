@@ -9,7 +9,7 @@ This project is a simplified version of YouTube, built using React. It allows us
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [ScreenShot](#ScrennShot)
+- [ScreenShot](#ScreenShot)
 
 
 ## Features
