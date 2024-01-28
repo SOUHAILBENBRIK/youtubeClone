@@ -39,7 +39,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Start the development server:
    npm start
-2. Open your web browser and go to http://localhost:3000 to view the app.
+2. Open your web browser  to view the app.
 3.Explore the app and enjoy the YouTube clone experience!
 
 ### ScreenShot
