@@ -1,6 +1,8 @@
 # YouTube Clone with React
 
 This project is a simplified version of YouTube, built using React. It allows users to browse and watch videos, search for specific content, and enjoy a user-friendly video-sharing experience.
+[Visit the  website](https://youtubeclonebysouhailbenbrik.netlify.app/)
+
 
 ## Table of Contents
 
